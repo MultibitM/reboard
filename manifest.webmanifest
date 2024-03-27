@@ -1,0 +1,36 @@
+{
+  "name": "reBoard",
+  "short_name": "reBoard",
+  "background_color": "#424147",
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay"
+  ],
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, 
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+
+  ],
+  "theme_color": "#424147"
+}
